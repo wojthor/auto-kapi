@@ -19,3 +19,27 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+
+.overlock-sc-regular {
+  font-family: "Overlock SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.play-regular {
+  font-family: "Play", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.play-bold {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+}
+
+.rysiek {
+  font-family: "Georgia, 'Times New Roman', Times, serif";
+  font-weight: 400;
+  font-style: normal;
+}
